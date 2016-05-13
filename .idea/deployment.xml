@@ -9,7 +9,28 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="local2">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="sitebemtevi">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sygmasistemas">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="testeapi.sygmasistemas.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
