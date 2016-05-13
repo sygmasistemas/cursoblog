@@ -12,4 +12,4 @@
 */
 
 Route::get('/', 'BlogController@index');
-
+Route::get('post/{id}', ['as' => 'show', 'uses' => 'BlogController@showPost']);
